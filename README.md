@@ -13,8 +13,8 @@
 [Fees](https://medium.com/@jimmysong/the-fee-market-explained-76b294947b42) | 5 min | fees |
 [Transaction Replacement](https://en.bitcoin.it/wiki/Transaction_replacement)  | 5 min | transaction replacement, fees |
 [Fee Bumping and RBF](https://github.com/bitcoinops/scaling-book/blob/add_rbf/1.fee_bumping/fee_bumping.md) | 10 min | fee bumping, RBF |
-[PSBT](https://www.youtube.com/watch?v=H6xZSRDXUiU) | 30 min | PBST |
-[PSBT Howto for Bitcoin Core](https://github.com/bitcoin/bitcoin/blob/master/doc/psbt.md) | 5 min | PBST |
+[PSBT presented by @achow101](https://www.youtube.com/watch?v=H6xZSRDXUiU) | 30 min | PSBT, video |
+[PSBT - Howto for Bitcoin Core](https://github.com/bitcoin/bitcoin/blob/master/doc/psbt.md) | 5 min | PSBT |
 
 
 ## Discussion Questions
